@@ -1,1 +1,1 @@
-# lab-4.05.18
+B::foo()B::bar()A::baz()C::foo()C::bar()A::baz()
